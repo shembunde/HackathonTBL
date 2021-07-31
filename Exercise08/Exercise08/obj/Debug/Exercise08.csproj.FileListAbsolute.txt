@@ -1,0 +1,7 @@
+C:\Users\shem\source\repos\Exercise08\Exercise08\bin\Debug\Exercise08.exe.config
+C:\Users\shem\source\repos\Exercise08\Exercise08\bin\Debug\Exercise08.exe
+C:\Users\shem\source\repos\Exercise08\Exercise08\bin\Debug\Exercise08.pdb
+C:\Users\shem\source\repos\Exercise08\Exercise08\obj\Debug\Exercise08.csprojAssemblyReference.cache
+C:\Users\shem\source\repos\Exercise08\Exercise08\obj\Debug\Exercise08.csproj.CoreCompileInputs.cache
+C:\Users\shem\source\repos\Exercise08\Exercise08\obj\Debug\Exercise08.exe
+C:\Users\shem\source\repos\Exercise08\Exercise08\obj\Debug\Exercise08.pdb
